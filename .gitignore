@@ -1,0 +1,14 @@
+# Simulation artifacts
+*.vcd
+*.vvp
+a.out
+*.log
+work/
+transcript
+vsim.wlf
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
